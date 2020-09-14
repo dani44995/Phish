@@ -1,3 +1,4 @@
+<p align="left"> <a href="#"><img title="Author By Tegar-ID" src="https://img.shields.io/badge/AUTHOR%20BY-TEGAR-ID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 <p align="center"> 
 <a href="https://github.com/Tegar-ID/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Tegar-ID?color=blue&style=flat-square"></a>
