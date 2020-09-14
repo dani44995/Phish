@@ -1,6 +1,6 @@
 <p align="left">
 
-<a href="#"><img title="Made in Indonesia" src="https://img.shields.io/badge/MADE%20IN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="Made in Indonesia" src="https://img.shields.io/badge/AUTHOR%20TEGAR-ID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <p align="center"> 
 <a href="https://github.com/Tegar-ID/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Tegar-ID?color=blue&style=flat-square"></a>
