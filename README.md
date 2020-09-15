@@ -11,7 +11,7 @@
 <a href="https://github.com/Tegar-ID/Phish/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tegar-ID/Phish?label=Watchers&color=blue&style=flat-square"></a>
 </p> 
 <p>
-## Install<br>
+#Install<br>
 $ pkg install git<br>
 $ pkg install openssh<br>
 $ pkg install curl<br>
@@ -19,7 +19,7 @@ $ pkg install php<br>
 $ pkg install bash<br>
 $ pkg install unzip
 $ git clone https://github.com/Tegar-ID/Phish<br>
-## Run<br>
+#Run<br>
 $ cd Phish<br>
 $ bash phish.sh<br>
 <center>
