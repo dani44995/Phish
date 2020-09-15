@@ -7,7 +7,6 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 }
 banner() {
 unzip websites.zip
-rm -rf websites.zip
 clear
 printf "\e[0m\n"
 echo "
