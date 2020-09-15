@@ -17,7 +17,7 @@ $ pkg install openssh<br>
 $ pkg install curl<br>
 $ pkg install php<br>
 $ pkg install bash<br>
-$ pkg install unzip
+$ pkg install unzip<br>
 $ git clone https://github.com/Tegar-ID/Phish<br>
 <b>Run</b><br>
 $ cd Phish<br>
